@@ -1,0 +1,13 @@
+{"elements":[
+    {"name":"daxe-xl"},
+    {"name":"daxe-xl-global-change"},
+    {"name":"daxe-xl-extension"},
+    {"name":"daxe-xl-workplan-change"},
+    {"name":"daxe-xl-workplan-create"},
+    {"name":"daxe-xl-workplan-delete"},
+    {"name":"daxe-xl-maintenance-item-create"},
+    {"name":"daxe-xl-maintenance-item-change"},
+    {"name":"daxe-xl-tasklist-delete"},
+    {"name":"daxe-xl-tasklist-change"},
+    {"name":"daxe-xl-tasklist-create"}
+]}
